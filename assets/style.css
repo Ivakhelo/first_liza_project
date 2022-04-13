@@ -1,0 +1,32 @@
+.card_container{ border: 2px solid blue;
+border-radius: 10px;
+width: 400px;
+height: 600px;
+}
+.photo_container{
+    border: 2px solid gray;
+    border-radius: 100px;
+    background-image: url('https://www.webconfs.com/wp-content/uploads/2020/07/12825450d41e4fd6d2482c0920b7fe75.jpg');
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    margin: 10px;
+}
+.user_name{
+    color: black();
+    font-size: 25px;
+
+}
+.button-style{
+    border: 1px solid black;
+    width: 120px;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    margin: 10px 30px 50px 100px;
+    
+}
+
+
