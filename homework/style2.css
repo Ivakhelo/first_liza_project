@@ -3,9 +3,11 @@
     background-image: url(https://kyiv.comments.ua/img/publications/880x586/6_gJkI5fnpE4c61IetHZ-IhbG3PQ1POe.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    box-sizing: border-box;
+    height: 600px;
 }
 .first{
-    padding: 200px 100px 0px;
+    padding: 150px 100px 0px;
     margin-bottom: 0px;
     display: block;
     font-family: 'Times New Roman', Times, serif;
@@ -15,6 +17,7 @@
     font-family: 'Times New Roman', Times, serif; 
     font-style: italic;
     font-size: 1.5em;
+    text-decoration: underline;
 }
 
 .button{
@@ -26,19 +29,23 @@
     margin: auto;
     margin-top: 30px;
     border-radius: 50px;
-    margin-bottom: 250px;
+    margin-bottom: 150px;
 }
-.text{ margin-top: 150px;
+.text{ margin-top: 0px;
     background-color: cornsilk;
     height: 50px;
     margin-bottom: 0px;
     text-align: center;
+    background-color: rgb(160, 224, 250);
+    padding-top: 20px;
+    font-style: italic;
 }
 .buttom_text{
     margin-top: 0px;
     margin-bottom: 0px;
-    height: 150px;
+    height: 100px;
     text-align: center;
     padding-top: 20px;
-    background-color: burlywood;
+    background-color: rgb(244, 250, 166);
+    font-style: italic;
 }
